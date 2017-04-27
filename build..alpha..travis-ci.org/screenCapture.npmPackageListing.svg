@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-24 10:32:40 +0000   182248 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-24 10:32:40 +0000      203 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-24 10:32:40 +0000      476 bytes  Dockerfile</tspan>
-<tspan x="10" y="74">  3.  2017-04-24 10:32:40 +0000     1631 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-24 10:32:40 +0000    15183 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-24 10:32:40 +0000     2673 bytes  binding.gyp</tspan>
-<tspan x="10" y="122">  6.  2017-04-24 10:32:40 +0000      352 bytes  get_regvalue.py</tspan>
-<tspan x="10" y="138">  7.  2017-04-24 10:32:40 +0000      932 bytes  index.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-24 10:32:40 +0000      831 bytes  package.json</tspan>
-<tspan x="10" y="170">  9.  2017-04-24 10:32:40 +0000    39856 bytes  src/imagemagick.cc</tspan>
-<tspan x="10" y="186"> 10.  2017-04-24 10:32:40 +0000      141 bytes  src/imagemagick.h</tspan>
-<tspan x="10" y="202"> 11.  2017-04-24 10:32:40 +0000     2321 bytes  test/benchmark.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-24 10:32:40 +0000     3271 bytes  test/broken.png</tspan>
-<tspan x="10" y="234"> 13.  2017-04-24 10:32:40 +0000      585 bytes  test/leak.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-24 10:32:40 +0000     1810 bytes  test/test.async.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-24 10:32:40 +0000     1843 bytes  test/test.background.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-24 10:32:40 +0000       98 bytes  test/test.background.png</tspan>
-<tspan x="10" y="298"> 17.  2017-04-24 10:32:40 +0000     2771 bytes  test/test.getPixelColor.png</tspan>
-<tspan x="10" y="314"> 18.  2017-04-24 10:32:40 +0000     2078 bytes  test/test.gravity.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-24 10:32:40 +0000     6863 bytes  test/test.jpg</tspan>
-<tspan x="10" y="346"> 20.  2017-04-24 10:32:40 +0000    15101 bytes  test/test.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-24 10:32:40 +0000      882 bytes  test/test.maxmemory.jpg</tspan>
-<tspan x="10" y="378"> 22.  2017-04-24 10:32:40 +0000     3271 bytes  test/test.png</tspan>
-<tspan x="10" y="394"> 23.  2017-04-24 10:32:40 +0000    63731 bytes  test/test.quantizeColors.png</tspan>
-<tspan x="10" y="410"> 24.  2017-04-24 10:32:40 +0000     1364 bytes  test/test.stream.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-24 10:32:40 +0000     5885 bytes  test/test.trim.jpg</tspan>
-<tspan x="10" y="442"> 26.  2017-04-24 10:32:40 +0000     3026 bytes  test/test.trim.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-24 10:32:40 +0000     5070 bytes  test/test.wide.png</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 21:57:10 +0000   182248 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 21:57:10 +0000      203 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 21:57:10 +0000      476 bytes  Dockerfile</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 21:57:10 +0000     1631 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 21:57:10 +0000    15183 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 21:57:10 +0000     2673 bytes  binding.gyp</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 21:57:10 +0000      352 bytes  get_regvalue.py</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 21:57:10 +0000      932 bytes  index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 21:57:10 +0000      831 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 21:57:10 +0000    39856 bytes  src/imagemagick.cc</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 21:57:10 +0000      141 bytes  src/imagemagick.h</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 21:57:10 +0000     2321 bytes  test/benchmark.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-27 21:57:10 +0000     3271 bytes  test/broken.png</tspan>
+<tspan x="10" y="234"> 13.  2017-04-27 21:57:10 +0000      585 bytes  test/leak.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-27 21:57:10 +0000     1810 bytes  test/test.async.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-27 21:57:10 +0000     1843 bytes  test/test.background.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-27 21:57:10 +0000       98 bytes  test/test.background.png</tspan>
+<tspan x="10" y="298"> 17.  2017-04-27 21:57:10 +0000     2771 bytes  test/test.getPixelColor.png</tspan>
+<tspan x="10" y="314"> 18.  2017-04-27 21:57:10 +0000     2078 bytes  test/test.gravity.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-27 21:57:10 +0000     6863 bytes  test/test.jpg</tspan>
+<tspan x="10" y="346"> 20.  2017-04-27 21:57:10 +0000    15101 bytes  test/test.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-27 21:57:10 +0000      882 bytes  test/test.maxmemory.jpg</tspan>
+<tspan x="10" y="378"> 22.  2017-04-27 21:57:10 +0000     3271 bytes  test/test.png</tspan>
+<tspan x="10" y="394"> 23.  2017-04-27 21:57:10 +0000    63731 bytes  test/test.quantizeColors.png</tspan>
+<tspan x="10" y="410"> 24.  2017-04-27 21:57:10 +0000     1364 bytes  test/test.stream.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-27 21:57:10 +0000     5885 bytes  test/test.trim.jpg</tspan>
+<tspan x="10" y="442"> 26.  2017-04-27 21:57:10 +0000     3026 bytes  test/test.trim.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-27 21:57:10 +0000     5070 bytes  test/test.wide.png</tspan>
 </text>
 </svg>
